@@ -1,6 +1,7 @@
 # Getting started
 
 - Change the `rootProject.name` in  [settings.gradle](settings.gradle)
+- Change the `spring.application.name` in [application.yml](src/main/resources/application.yml)
 - Enable annotation processing in IntelliJ Idea
 
 ## Gradle
@@ -22,3 +23,7 @@
 - [Jackson](https://github.com/FasterXML/jackson/wiki/Jackson-Releases)
 - [Google Guava](https://github.com/FasterXML/jackson/wiki/Jackson-Releases)
 - [Apache Commons](https://commons.apache.org/downloads/index.html)
+
+# Spring Boot
+
+- [Application properties](https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html)
